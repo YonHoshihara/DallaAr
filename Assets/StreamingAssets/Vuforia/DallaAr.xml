@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="yuju_eunha_target" size="1.000000 0.666406" />
+    <ImageTarget name="unji_target" size="1.000000 1.500586" />
+    <ImageTarget name="sowon_target" size="1.000000 1.500586" />
     <ImageTarget name="eunha_target" size="1.000000 1.500586" />
     <ImageTarget name="sinb_target" size="1.000000 1.500586" />
   </Tracking>
